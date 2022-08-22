@@ -8,7 +8,7 @@ import numpy as np
 import imutils as im
 
 
-cap = cv2.VideoCapture("vids/mixkit-going-down-highway.mp4")
+cap = cv2.VideoCapture("mixkit-going-down-highway.mp4")
 
 # cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1920 // 2)
 # cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080 // 2)
